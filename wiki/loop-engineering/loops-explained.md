@@ -20,4 +20,5 @@ Loops are systems that let AI move from a one-step prompt to a goal that it can 
 ## Related
 - [[loop-engineering/from-prompting-agents-to-loop-engineering]]
 - [[loop-engineering/build-an-ai-that-codes-while-you-sleep]]
-- [[ai-agents/overview]]
+- [[loop-engineering/self-verifying-agent-swarms]]
+- [[ai-agents/ai-agents-overview]]

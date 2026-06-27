@@ -16,5 +16,7 @@ Loop engineering moves the work from hand-writing prompts to designing systems t
 - Build loops by picking one repeatable task, scoping it tight, setting a budget and stop condition, adding an independent verifier, running it on a cadence, and keeping memory on disk.
 
 ## Related
-- [[ai-agents/overview]]
-- [[ai-product-management/modern-ai-pm]]
+- [[ai-agents/ai-agents-overview]]
+- [[loop-engineering/goal-as-agent-primitive]]
+- [[agent-harness-engineering/agent-harness-engineering]]
+- [[ai-product-management/modern-ai-pm-in-age-of-agents]]

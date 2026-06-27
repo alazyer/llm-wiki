@@ -18,4 +18,6 @@ Loop engineering is the practice of building a small system that finds work, han
 
 ## Related
 - [[loop-engineering/from-prompting-agents-to-loop-engineering]]
-- [[ai-agents/overview]]
+- [[loop-engineering/loop-engineering-14-step-roadmap]]
+- [[agent-harness-engineering/anatomy-of-agent-skills]]
+- [[ai-agents/ai-agents-overview]]
