@@ -8,3 +8,4 @@ Claude usage systems covers project setup, prompting patterns, persistent instru
 - [[claude-prompting-rules|Claude Prompting Rules]] — Role, audience, context, constraints, examples, format, critique, and iteration rules.
 - [[claude-prompt-library-20|20 Claude Prompts Library]] — Reusable prompts for research, writing, career, life, and learning workflows.
 - [[claude-md-setup-21-things|CLAUDE.md Setup: 21 Things Users Forget]] — Persistent instruction and memory files for repeated Claude work.
+- [[claude-code-open-source-repos|Claude Code Open-Source Repos]] — Open-source configs, skills, memory layers, scanners, and orchestration tools that extend Claude Code.

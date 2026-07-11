@@ -10,3 +10,4 @@ AI agent operations covers persistent agent teams, memory architecture, scheduli
 - [[hermes-vs-openclaw-learning-loop|Hermes vs OpenClaw Learning Loops]] — Human-curated memory versus automatic skill/playbook extraction.
 - [[local-coding-agents-with-hermes|Local Coding Agents with Hermes]] — Routing narrow low-risk coding cards to local models under review.
 - [[paperclip-ai-company-orchestration|Paperclip AI Company Orchestration]] — Org charts, tickets, budgets, heartbeats, and governance for multi-agent teams.
+- [[taste-index-hermes-gbrain|Taste Index with Hermes and GBrain]] — Selective memory for judgment: what mattered, why it mattered, and how it should shape future agent work.

@@ -13,6 +13,7 @@
 
 ## Related
 - [[loop-engineering/from-prompting-agents-to-loop-engineering]]
+- [[loop-engineering/getting-started-with-loops]]
 - [[loop-engineering/loop-engineering-14-step-roadmap]]
 - [[ai-agent-operations/local-coding-agents-with-hermes]]
 - [[ai-assisted-software-engineering/agentic-code-review-verification-bottleneck]]

@@ -13,6 +13,7 @@ OpenClaw and Hermes represent two improvement-loop styles. OpenClaw relies on hu
 
 ## Related
 - [[ai-agent-operations/openclaw-memory-architecture]]
+- [[ai-agent-operations/taste-index-hermes-gbrain]]
 - [[ai-agent-operations/local-coding-agents-with-hermes]]
 - [[agent-harness-engineering/anatomy-of-agent-skills]]
 - [[loop-engineering/goal-as-agent-primitive]]

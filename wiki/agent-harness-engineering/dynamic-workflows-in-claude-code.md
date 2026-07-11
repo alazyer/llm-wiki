@@ -13,6 +13,7 @@ Dynamic workflows are task-specific harnesses generated for a particular job. In
 
 ## Related
 - [[agent-harness-engineering/agent-harness-engineering]]
+- [[agent-harness-engineering/self-improving-agent-system-fable-5]]
 - [[loop-engineering/goal-as-agent-primitive]]
 - [[loop-engineering/self-verifying-agent-swarms]]
 - [[generative-ui/generative-ui-new-frontend-patterns]]
