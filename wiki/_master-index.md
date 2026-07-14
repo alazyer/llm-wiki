@@ -10,4 +10,8 @@
 - [[ai-agents|AI Agents]] — General agent concepts, tool use, memory, loops, and beginner agent build patterns.
 - [[generative-ui|Generative UI]] — Agent-rendered interfaces, protocol stacks, and controlled/declarative/open-ended UI patterns.
 - [[applied-ai-roles|Applied AI Roles]] — Emerging roles for deploying AI in real organizations, including forward deployed engineering.
+- [[llm-inference-systems|LLM Inference Systems]] — Runtime mechanics and serving tradeoffs for LLM latency, throughput, memory, context, and deployment scale.
+- [[ai-native-organizations|AI-Native Organizations]] — Organizational operating systems redesigned so agents can execute structured work under human supervision.
+- [[ai-business-building|AI Business Building]] — Solo and small-team AI service business systems for acquisition, delivery, pricing, SOPs, and reusable skills.
+- [[web-platform-engineering|Web Platform Engineering]] — Browser internals, rendering pipelines, JavaScript engines, process isolation, networking, and web performance diagnostics.
 - [[pending-ingest|Pending Ingest]] — Empty, minimal, or superseded raw files tracked without inventing missing source content.
