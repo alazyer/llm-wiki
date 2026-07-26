@@ -12,6 +12,9 @@ Loop engineering is the practice of designing systems that find work for agents,
 - [[self-verifying-agent-swarms|Self-Verifying Agent Swarms]] — Planner/verifier plus executor swarm pattern for trustworthy large-scale agent work.
 - [[goal-as-agent-primitive|`/goal` as an Agent Primitive]] — Goal assignments as durable contracts with measurable evidence and independent verification.
 - [[getting-started-with-loops|Getting Started with Loops]] — Turn-based, goal-based, time-based, and proactive loop types with quality and token controls.
+- [[prompter-to-system-builder|From Prompter to System Builder]] — Ten shifts from one-off prompting to maintained loop infrastructure.
+- [[karpathy-loop-and-bilevel-autoresearch|Karpathy Loop and Bilevel Autoresearch]] — Measurable autonomous experiment loops and meta-loops that improve the search process itself.
 
 ## Cross-Topic Loop Articles
 - [[ai-product-management/loop-engineering-for-product-managers]] — Product-management loops for artifact quality, signal synthesis, and decision support.
+- [[graph-engineering/graph-engineering-basics]] — Graphs compose loops into wider node-and-edge systems for parallel work and independent verification.

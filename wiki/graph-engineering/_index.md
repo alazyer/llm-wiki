@@ -1,0 +1,12 @@
+# Graph Engineering
+
+Graph engineering covers agent work as node-and-edge systems: dependency graphs, fan-out/fan-in patterns, verifier edges, isolation, routing, cycles, cost controls, and dynamic workflows that coordinate fleets of agents.
+
+## Articles
+- [[graph-engineering-basics|Graph Engineering Basics]] — Nodes, edges, fake-edge tests, diamond workflows, verifier nodes, anchors, and when graphs are the wrong tool.
+- [[graph-engineering-roadmap|Graph Engineering Roadmap]] — A 14-step progression from linear agents to contracted nodes, runtime routing, isolation, cycles, model tiering, and self-routing workflows.
+- [[claude-dynamic-workflows-at-scale|Claude Dynamic Workflows at Scale]] — Practical Claude Code graph workflow setup, scaling limits, failure modes, cost supervision, and starter graph patterns.
+
+## Related Topics
+- [[loop-engineering|Loop Engineering]] — The loop primitives that graph engineering composes into wider systems.
+- [[agent-harness-engineering|Agent Harness Engineering]] — Harnesses, skills, workflows, and verification structures that graphs run on.
