@@ -5,10 +5,212 @@ ingested: 2026-07-26
 blog: "LangChain Blog"
 published: "2026-06-18"
 ---
+
 ## Source Metadata
+
 - **Blog:** LangChain Blog
-- **Published:** 2026-06-18
 - **URL:** https://www.langchain.com/blog/langsmith-agent-builder
+- **Fetched:** 2026-07-26
+- **Extracted title:** Introducing LangSmith’s No Code Agent Builder
 
 ## Article Content
-_(Content not yet fetched. Run wiki compile to download and process.)_
+
+Introducing LangSmith’s No Code Agent Builder
+
+LangSmith Platform
+
+Agent Improvement
+
+Engine
+
+Improve agents autonomously
+
+Observability
+
+See exactly what your agents are doing
+
+Evaluation
+
+Score and improve agent performance
+
+Agent Infrastructure
+
+Deployment
+
+Ship and scale agents in production
+
+Sandboxes
+
+Run agent-generated code safely
+
+No-Code Agents
+
+Fleet
+
+Agents for the whole company
+
+Open Source Frameworks
+
+deepagents
+
+Build long-running agents for complex tasks
+
+langgraph
+
+Build reliable agents with low-level control
+
+langchain
+
+Quick start agents with any model provider
+
+Resources
+
+Customer Stories
+
+Guides
+
+Max Agency
+
+How-To
+
+LangChain Academy
+
+YouTube
+
+Documentation
+
+Community
+
+LangSmith for Startups
+
+Meetups
+
+Community
+
+About
+
+Careers
+
+Partners
+
+Company Announcements
+
+LangSmith
+
+Introducing LangSmith’s No Code Agent Builder
+
+The LangChain Team
+
+October 29, 2025
+
+5
+
+min
+
+Create agents
+
+By Brace Sproul and Sam Crowder
+
+Today, we’re expanding who can build agents beyond developers. While a lot of the highest volume, customer-facing agents will be built by technical teams, nearly every business user has use cases for agentic applications in their daily routines. Our new LangSmith Agent Builder provides a no code agent-building experience — complete with memory and guided prompt creation — that lowers the barrier to building agents.
+
+Try Agent Builder today, and learn more about our approach below.
+
+What’s different
+
+We’ve spent the past three years building agents alongside millions of developers. We hear from engineering teams how much their colleagues want to build their own agents. Even technical users have asked for faster ways to get started with agents that doesn't always involve writing and deploying code.
+
+That’s why we’re launching LangSmith Agent Builder in private preview. It empowers everyone in an organization to build agents in a safe and accessible way. Unlike other solutions out there, LangSmith Agent Builder is an agent builder, not a visual workflow builder. Visual workflows builders have two major pitfalls:
+
+A visual workflow builder is not “low” barrier to entry.
+
+Complex tasks quickly get too complicated to manage in a visual builder.
+
+Rather than follow a predetermined path, agents can delegate more decision-making to an LLM, allowing for more dynamic responses. By focusing on letting users build agents, we make agent building accessible to a broader audience while enabling users to tackle more complicated and complex tasks, rather than simple workflows.
+
+What an agent consists of
+
+Every agent in LangSmith is built from four core components that work together:
+
+Prompt: This is the brain of your agent containing the logic to describe what the agent should do. With LangSmith agents, all the complexity of the agent is pushed into the prompt (rather than into a complex visual workflow). Writing good prompts is hard but really important, which is why we've built tools to make it easier (learn more in the next section).
+
+Tools: In order to interact with the world, agents need to call tools. LangSmith uses MCP to connect your agent to external services and data. We provide built-in tools, but you can also easily bring your own MCP servers. With LangSmith’s new Agent Authorization functionality, you can securely connect to tools your team has approved such as Gmail, Slack, LinkedIn, or Linear – all within the agent building flow.
+
+Triggers: Agents don't just respond to chat messages – they can also act automatically on background events. Set up triggers to launch your agent when you receive an email, get a Slack message in a particular channel, or on a time-based schedule.
+
+Subagents: We recommend starting out by putting most complexity in the prompt. But as complexity grows, you may want to keep the system manageable by creating smaller, more focused subagents for specific tasks.
+
+How we make it easier to build your agent
+
+We've consistently seen that the hardest part of building agents is writing effective prompts. Two challenges make this difficult:
+
+Good prompts require detail and specificity, but most people lack prompt engineering experience.
+
+Prompts need to evolve or be updated as you discover edge cases and new requirements.
+
+We've set out to make these things easier:
+
+Start with a conversation instead of a blank canvas. First, start with your request and describe what you want your agent to do in plain language. The system then asks you follow up questions to get the details right, auto-generates your agent's system prompt, connects tools, and sets triggers based on your answers. This guided conversation makes it easy to create detailed, effective prompts without prompt engineering expertise.
+
+Have your agent remember over time. LangSmith agents have built-in memory for not only their prompt but also the tools that they (and any subagents) have access to. At any point, the agent can update its memory. If you correct the agent, it will now remember that correction so you don't have to prompt it to do so again in the future.
+
+LangSmith Agent Builder is great for internal productivity use cases like email, chat, and Salesforce assistants. For instance, you can build an agent to send you a summary of your schedule with meeting prep every day. You could build an email agent that dynamically creates next steps based on the message, from creating Linear tickets, to drafting responses, or sending a Slack message. And, you can make sure to approve any messages before they get sent.
+
+We'll continue to expand what's possible with Agent Builder based on community feedback — start building with Agent Builder to help shape what comes next.
+
+Under the hood
+
+We’ve incorporated learnings from the last three years building open source agent frameworks LangChain and LangGraph, as well as our early iteration of this product Open Agent Platform, to inform our design decisions.
+
+Today, LangSmith Agent Builder is built on top of our deepagents package. Deep Agents gives your agents access to planning capabilities, persistent memory, and the ability to break down complex tasks into manageable subtasks. This means your agent can handle complex, multi-step workflows without you needing to map out every possible scenario; they problem-solve in real time.
+
+For folks already using the LangChain ecosystem of tools, here's a table with some tips on when to use LangSmith Agent Builder vs. our open source frameworks.
+
+Try Agent Builder
+
+If you’re interested in checking out the new experience, you can try Agent Builder today! We can’t wait to hear input from the community to continue to improve the experience for everyone.
+
+Related content
+
+Conceptual Guide
+
+LangSmith
+
+Building Governed Agents: A Framework for Cost, Control, and Compliance
+
+Martha Janicki
+
+July 20, 2026
+
+15
+
+min
+
+Conceptual Guide
+
+LangSmith
+
+Agents need their own computer. Here's how to give them one safely.
+
+Amy Ru
+
+July 15, 2026
+
+12
+
+min
+
+LangChain
+
+LangSmith
+
+Observability & Evals
+
+Your coding agent bill doubled. Here’s how to fix it.
+
+Amy Ru
+
+July 2, 2026
+
+6
+
+min

@@ -5,10 +5,204 @@ ingested: 2026-07-26
 blog: "MIT Technology Review AI"
 published: "2026-07-23"
 ---
+
 ## Source Metadata
+
 - **Blog:** MIT Technology Review AI
-- **Published:** 2026-07-23
 - **URL:** https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/
+- **Fetched:** 2026-07-26
+- **Extracted title:** The Download: energy transmission and US threats against Chinese AI
 
 ## Article Content
-_(Content not yet fetched. Run wiki compile to download and process.)_
+
+The Download: energy transmission and US threats against Chinese AI | MIT Technology Review
+
+Skip to Content
+
+The Download
+
+The Download: energy transmission and US threats against Chinese AI
+
+Plus: Why the OpenAI hack is the scariest AI mishap yet.
+
+By
+
+Charlotte Jeearchive page
+
+July 23, 2026
+
+This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.
+
+The power line that could reshape New York’s grid is hitting snags
+
+During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about 9% of its total demand that day.
+
+Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens. It opened in May and is officially the longest underground transmission line in North America. It could provide up to 20% of New York City’s electricity demand, largely with abundant hydropower from Quebec.
+
+One wrinkle: The line has been down for most of this month, and some experts are concerned about how drought will affect the power supply feeding it.
+
+Still, the line could help shape the future of our grid, if it can overcome these sorts of snags. Read our story to understand how.
+
+—Casey Crownhart
+
+This story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday.
+
+The must-reads
+
+I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+1 The US Treasury is threatening to sanction Chinese AI companies
+
+Treasury secretary Scott Bessent has accused Moonshot of improperly distilling Anthropic’s Fable model. (TechCrunch)
+
++ Nvidia’s Jensen Huang is arguing that America has nothing to fear from Chinese AI. (Axios)
+
++ Like it or not, Chinese models are now part of the global AI infrastructure. (Rest of World)
+
++ China’s AI models have Trump’s AI world at war with itself. (MIT Technology Review)
+
+2 Why the OpenAI hack is the scariest AI mishap yet
+
+AI’s capabilities seem to be starting to outpace our current ability to control them. (The Economist $)
+
++ Hugging Face had to turn to a Chinese AI model to rescue it from the hack. (BI)
+
+3 Visually impaired Europeans can now get an implant that restores sight
+
+And Americans may not have to wait long to receive it, too. (STAT)
+
++ This retina implant lets people with vision loss do a crossword puzzle. (MIT Technology Review)
+
+4 A bellwether lawsuit suing Meta for social media addiction has been dropped
+
+There are, however, many more waiting in the wings. (NYT $)
+
+5 Here’s how ICE gets its hands on Americans’ data
+
+As soon as you open a credit card or phone account, its agents can see where you live. (404 Media)
+
++ States are warring with the Trump administration over the right to see ICE agents’ faces. (Wired $)
+
+6 We urgently need to grapple with AI’s environmental impact
+
+As the world warms, is the price we’re paying worth it? (The Verge)
+
++ We did the math on AI’s energy footprint. (MIT Technology Review)
+
+7 Privacy issues with smart glasses need an industrywide fix
+
+That’s according to Samsung, which is unveiling glasses it developed with Google this fall. (Bloomberg $)
+
+8 The US Army is begging soldiers to limit their AI use
+
+The token crisis comes for us all eventually, it seems. (Ars Technica)
+
+9 Why does lettuce keep making Americans sick? 🥬😷
+
+It’s pretty simple: a lot of people eat it, and it doesn’t get cooked. (Wired $)
+
+10 Pokemon Go is the perfect game to play this summer
+
+It’s fun, collaborative, and it gets you outdoors. (Guardian)
+
+Quote of the day
+
+"It went off and did this hack all by itself, as far as we can tell. This is the highest level of autonomy that we've seen in the use of a large language model for cyber operations."
+
+—Colin Shea-Blymyer, a cybersecurity research fellow at Georgetown University, tells NPR why the OpenAI hack on Hugging Face is so alarming.
+
+One More Thing
+
+KAGAN MACLEOD
+
+Welcome to the dark side of crypto’s permissionless dream
+
+Jean-Paul Thorbjornsen is a founder of THORChain, a blockchain through which users can swap one cryptocurrency for another and earn fees from making those swaps.
+
+But is he responsible for what it’s used for? It’s a question that matters because in January last year, its users lost more than $200 million in cryptocurrency after THORChain transactions and accounts were frozen by an admin override, which users believed was not supposed to be possible given the decentralized structure. It’s also been used by North Korean hackers to move $1.2 billion of stolen ethereum.
+
+Thorbjornsen explains this all away as a function of THORChain’s decentralized and permissionless nature. Read our story exploring whether we should believe him or not.
+
+—Jessica Klein
+
+We can still have nice things
+
+A place for comfort, fun, and distraction to brighten up your day. (Got any ideas? Drop me a line.)
+
++ A musician developed an ingenious way to strum a guitar with an electric fan.
+
++ Ukraine's tunnel of love is a leafy green corridor of romance that’s straight out of a fairy tale.
+
++ The driver of a giant banana has been pulled over 100s of times, but still won’t ditch his treasured ride.
+
++ Ever wonder which albums and songs truly stand the test of time? The Greatest Music tries to answer that via an algorithm that analyses hundreds of "best of" lists.
+
+by Charlotte Jee
+
+Share story on linkedin
+
+Share story on facebook
+
+Share story on email
+
+Popular
+
+A startup claims it broke through a bottleneck that’s holding back LLMsWill Douglas Heaven
+
+China has approved the world’s first invasive brain-computer chip—here’s what’s nextYou Xiaoying
+
+The “steroid olympics” were a circus—and a window into our cultureAmit Katwala
+
+Sperm donors need limits, says a European fertility groupJessica Hamzelou
+
+Deep Dive
+
+The Download
+
+The Download: Claude’s inner workings and OpenAI’s “super app”
+
+Plus: OpenAI has unveiled its long-awaited "super app."
+
+By
+
+Thomas Macaulayarchive page
+
+The Download: Claude’s inner workings, and the future of world models
+
+Plus: New York has become the first state to enact a data center moratorium.
+
+By
+
+Thomas Macaulayarchive page
+
+The Download: the future of chipmaking and Anthropic’s government clash
+
+Plus: Meta is pausing an AI training program that tracks workers’ keystrokes.
+
+By
+
+Thomas Macaulayarchive page
+
+The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains
+
+Plus: Anthropic has called for a global slowdown in AI development.
+
+By
+
+Thomas Macaulayarchive page
+
+Stay connected
+
+Illustration by Rose Wong
+
+Get the latest updates from
+
+Discover special offers, top stories,
+
+upcoming events, and more.
+
+Enter your email
+
+Privacy Policy
+
+Thank you for submitting your email!

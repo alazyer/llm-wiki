@@ -5,10 +5,142 @@ ingested: 2026-07-26
 blog: "MIT Technology Review AI"
 published: "2026-07-24"
 ---
+
 ## Source Metadata
+
 - **Blog:** MIT Technology Review AI
-- **Published:** 2026-07-24
 - **URL:** https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/
+- **Fetched:** 2026-07-26
+- **Extracted title:** The quest to keep organs alive outside the body
 
 ## Article Content
-_(Content not yet fetched. Run wiki compile to download and process.)_
+
+The quest to keep organs alive outside the body | MIT Technology Review
+
+Skip to Content
+
+Biotechnology and health
+
+The quest to keep organs alive outside the body
+
+Researchers are breaking new ground in preserving organs by freezing them, pumping nutrients into them, or supercooling them.
+
+By
+
+Jessica Hamzelouarchive page
+
+July 24, 2026
+
+Stephanie Arnett/MIT Technology Review | Adobe Stock
+
+EXECUTIVE SUMMARY
+
+This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice.
+
+Doctors dream of organ banks—stores of human organs that can be preserved for days, weeks, months, or even longer. That would allow them to run tests on organs, find the best matches for them, and transport the organs to those recipients.
+
+Related Story
+
+Putin says organ transplants could grant immortality. Not quite.
+
+Read next
+
+In new research, one team has been able to supercool the kidneys of pigs—animals whose organs are of a similar size to human ones—and preserve them for days. The kidneys survived being stored at −4 °C (25 °F) and eventually reimplanted back into pigs. And that’s just the latest development in a field that is positively buzzing.
+
+It has proved super difficult to freeze organs. Once ice forms in them, they’re done. The ice crystals create all kinds of damage and render the organs unusable. That hasn’t stopped many researchers from trying.
+
+Some have focused on cryopreservation—rapid extreme cooling that essentially leaves cells in a glasslike state. This process is now routine for eggs, sperm, and embryos, which are cooled to −196 °C in less than two seconds and can be used even after decades in storage.
+
+No one has managed to cryopreserve and thaw human organs for transplantation. But plenty of human bodies and brains have been stored at ultra-low temperatures in the hope that they might one day be rewarmed and brought back to life. (You can read more about why some people opt for cryonics here.)
+
+In March, I wrote about Stephen L. Coles, a gerontologist who had opted to cryopreserve his own brain. After the scientist died in 2014, his body was taken to Alcor, a cryonics facility in Arizona. A team at the facility removed Coles’s head, perfused his brain with cryoprotective chemicals (which work like antifreeze), removed the brain from the skull, and cooled it to −146 °C.
+
+When Coles’s friend Greg Fahy, a cryobiologist, studied pieces of his brain years later, he found that the brain cells, which had shrunk, “bounced back” once they were rewarmed. But that doesn’t mean the cells are alive, or that it might one day be possible to reanimate the brain. As Matthew Powell Palm of Texas A&M told me at the time: “There are so many ways those neurons could be toast.”
+
+Related Story
+
+Inside the stealthy startup that pitched brainless human clones
+
+Read next
+
+Powell Palm is working on other ways to preserve organs. It was he, along with his colleagues, who managed to store supercooled pig kidneys and successfully transplant them, in a study described as “a landmark achievement.” Those organs did better than kidneys stored on ice, he says.
+
+His approach didn’t require cryoprotectants. But other teams are exploring potential chemical cocktails that might allow them to store organs at lower temperatures, potentially for longer periods of time. (More on this in The Checkup soon!)
+
+Another way to prolong the lifespan of an organ is to use a machine that perfuses it with nutrients, mimicking what happens inside the body. Machine perfusion devices have become more commonly used over the last decade or so and are typically used to maintain livers and kidneys for up to about 24 hours.
+
+Researchers are now adapting this protocol for a growing list of organs, even eyeballs—a recent feat that might enable whole-eye transplants. In March, I went to visit scientists in Valencia who had developed a perfusion system for uteruses. They had used their device—which they nicknamed “Mother”—to keep a human uterus alive for a day.
+
+It’s an exciting time for organ preservation. Keep an eye out for more coverage from MIT Technology Review in the coming weeks.
+
+This article first appeared in The Checkup, MIT Technology Review’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here.
+
+by Jessica Hamzelou
+
+Share story on linkedin
+
+Share story on facebook
+
+Share story on email
+
+Popular
+
+A startup claims it broke through a bottleneck that’s holding back LLMsWill Douglas Heaven
+
+China has approved the world’s first invasive brain-computer chip—here’s what’s nextYou Xiaoying
+
+The “steroid olympics” were a circus—and a window into our cultureAmit Katwala
+
+Sperm donors need limits, says a European fertility groupJessica Hamzelou
+
+Deep Dive
+
+Biotechnology and health
+
+China has approved the world’s first invasive brain-computer chip—here’s what’s next
+
+The country wants to become a global leader in brain implants. Strong government support is expected to help accelerate that process.
+
+By
+
+You Xiaoyingarchive page
+
+The “steroid olympics” were a circus—and a window into our culture
+
+Dozens of athletes on performance-enhancing drugs competed in the Enhanced Games. Organizers hope it'll sell a lot of peptides and other supplements.
+
+By
+
+Amit Katwalaarchive page
+
+Sperm donors need limits, says a European fertility group
+
+Some donor-conceived people are finding hundreds of siblings. An international cap on donations could help prevent that.
+
+By
+
+Jessica Hamzelouarchive page
+
+Inside interoception: The hidden sense of how you feel inside
+
+Researchers are decoding how signals move between body and brain, with implications for how we understand and treat conditions from obesity to anxiety.
+
+By
+
+Katherine W. Isaacsarchive page
+
+Stay connected
+
+Illustration by Rose Wong
+
+Get the latest updates from
+
+Discover special offers, top stories,
+
+upcoming events, and more.
+
+Enter your email
+
+Privacy Policy
+
+Thank you for submitting your email!

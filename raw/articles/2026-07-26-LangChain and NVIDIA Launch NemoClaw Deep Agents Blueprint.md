@@ -5,10 +5,142 @@ ingested: 2026-07-26
 blog: "LangChain Blog"
 published: "2026-07-08"
 ---
+
 ## Source Metadata
+
 - **Blog:** LangChain Blog
-- **Published:** 2026-07-08
 - **URL:** https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint
+- **Fetched:** 2026-07-26
+- **Extracted title:** LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint
 
 ## Article Content
-_(Content not yet fetched. Run wiki compile to download and process.)_
+
+langchain
+
+Quick start agents with any model provider
+
+Resources
+
+Customer Stories
+
+Guides
+
+Max Agency
+
+How-To
+
+LangChain Academy
+
+YouTube
+
+Documentation
+
+Community
+
+LangSmith for Startups
+
+Meetups
+
+Community
+
+About
+
+Careers
+
+Partners
+
+LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint
+
+The LangChain Team
+
+July 8, 2026
+
+7
+
+min
+
+Create agents
+
+For production agents, model choice is only one part of improving agent performance. Teams also need to control the system around the model, including the tools an agent can use, the context it sees, how it is evaluated, where it runs, and what policies apply to each action.
+
+Today, we’re announcing the NemoClaw for LangChain Deep Agents blueprint, developed with NVIDIA to help enterprises build open, governed agent systems. The blueprint brings together LangChain Deep Agents Code, NVIDIA Nemotron 3 Ultra, and NVIDIA OpenShell runtime so teams can tune agents for their own workloads, run them securely, and optimize for quality, cost, and speed.
+
+In our evals, Nemotron 3 Ultra with a tuned LangChain Deep Agents harness provides advanced agent performance at a much lower inference cost. The main takeaway is that agent performance improves when the model, harness, evals, and runtime are tuned together.
+
+An open agent stack for enterprise workloads
+
+As enterprises move agents into production, the systems they build around the model become valuable IP. Agent memory, workflows, traces, eval datasets, harness configuration, and tuning data all reflect a company’s unique domain expertise. This is proprietary knowledge that can shape how the company competes, but in closed ecosystems, teams don’t fully control it. They need a way to own that work, improve it over time, and run agents with the controls their organizations require.
+
+The NemoClaw for Deep Agents blueprint gives teams control over the full agent stack.
+
+An open model layer. Nemotron 3 Ultra gives teams an open model they can run, customize, and optimize for enterprise workloads.
+
+A tuned agent harness. LangChain Deep Agents Code (dcode) provides the harness layer for long-running agents, including planning, tool use, memory, and task execution. The blueprint includes a Deep Agents harness profile tuned for Nemotron 3 Ultra.
+
+A governed runtime. NVIDIA OpenShell provides a secure runtime for sandboxed agent execution, with policies for how agents interact with tools, systems, and data.
+
+Together, these layers provide a path to build and deploy agents teams can measure, govern, and improve in production.
+
+Reaching benchmark-leading performance at 10x lower cost
+
+In LangChain’s agent eval suite, NVIDIA Nemotron 3 Ultra evaluated with LangChain Deep Agents achieved an aggregate score of 0.86 at a cost of $4.48. The next closest performing model cost $43.48, making Nemotron 3 Ultra roughly 10x lower inference cost on this benchmark.
+
+To reach these results, we tuned how the agent uses tools, manages context, and evaluates intermediate steps. The goal was to adapt the harness around Nemotron 3 Ultra’s strengths and the common patterns that show up in long-running agent tasks.
+
+For enterprise teams, this means the entire agent system can be optimized around the requirements of their specific workloads. Teams fine tune model weights, customize the harness, run evals, and control the runtime based on quality, cost, latency, and governance requirements. This gives companies a way to own the agent’s core intelligence and decide when, how, and why the system changes over time.
+
+Why lower inference cost leads to better agents
+
+Lower inference cost is one of the biggest benefits of using open models. It reduces serving cost for end users, and it also changes how teams build and improve agents.
+
+Evals work best when teams run them throughout the agent development lifecycle. Before deployment, teams need to test changes to prompts, harnesses, tools, models, and data. After deployment, they need to monitor real behavior, make fixes needed, and create tests so the regression doesn't happen again.
+
+When each iteration is expensive, teams run fewer evals, compare fewer variants, and avoid specialized agents because the operating cost is too high.
+
+A more cost-efficient open stack makes it practical to:
+
+Run larger eval suites before deployment and in production
+
+Compare more model, harness, and tool variants
+
+Evaluate specialized agents for specific domains
+
+The best system for a given workload optimizes across quality, cost, speed, and governance together. For example, the latency requirements for real-time customer support agents look very different from a coding agent running concurrent tasks in the background.
+
+“Super agents have arrived. With an open model like NVIDIA Nemotron, a LangChain harness, the NVIDIA OpenShell runtime, and a company’s own data, every enterprise can build custom agents that understand its business, use its tools, and turn knowledge into action. The future of AI won’t be one-size-fits-all — companies will use AI cloud services and build their own AI, shaped by their proprietary data, know-how, and workflows, and run it safely and securely wherever they operate.”
+
+‍– Jensen Huang, Founder and CEO of NVIDIA
+
+Ecosystem support
+
+The announcement is supported by partners across the AI infrastructure and enterprise ecosystem, including EY, who is building an implementation practice around the software stack, and Baseten, Fireworks, Nebius, Crusoe, DeepInfra, and Together AI. These partners help enterprises serve Nemotron models in production and adapt the blueprint for business critical applications.
+
+“EY clients in regulated industries are ready to move agentic AI out of isolated pilots and into production and are often constrained by governance, security, and the ability to prove control to a regulator or a board. Open agent architectures matter because they give enterprises transparency into how agents operate, control over where data and inference run, and the freedom to deploy on their own terms without committing to a closed stack. By delivering the NVIDIA NemoClaw blueprint, which incorporates LangChain technology, EY teams help give clients a secure, sandboxed foundation for always-on agents that can meet enterprise standards for auditability and risk from the first deployment."
+
+‍– Geoff Vickrey, Global Chief Commercial Officer, NVIDIA, EY
+
+"Production agents need inference that is fast, reliable, and cost-efficient at scale. We have optimized NVIDIA Nemotron models on Baseten to deliver high throughput and low latency on NVIDIA hardware, so teams get strong price-performance without operating the infrastructure themselves. Delivering Nemotron through the NemoClaw blueprint with LangChain gives enterprises a clear path to run open agentic models in production with the performance and economics these workloads demand."
+
+‍– Philip Kiely, Head of Developer Relations, Baseten.
+
+“Agentic workloads make many model calls per task, so inference speed and cost directly determine whether an agent is viable in production. Fireworks serves NVIDIA Nemotron models with the throughput and price-performance that high-volume agent systems require, tuned for the tool calling and reasoning patterns these workloads depend on. Offering Nemotron through the NemoClaw blueprint with LangChain gives enterprises an efficient, open foundation they can scale with confidence."
+
+‍– Lin Qiao, CEO and Cofounder, Fireworks AI.
+
+“The next challenge for enterprise AI is running complex agentic workloads economically at production scale. Nebius was built for that challenge. Our AI-native cloud gives customers dedicated infrastructure optimized for high-performance inference and cost-efficient scaling. By offering NVIDIA Nemotron models through the NemoClaw blueprint with LangChain, we’re making it easier for organizations to deploy and scale open agentic AI across their business.”
+
+‍– Roman Chernin, Chief Business Officer, Nebius
+
+Availability
+
+The NemoClaw for LangChain Deep Agents blueprint is available today.
+
+For deeper technical detail, read:‍
+
+Deep Agents Code on NemoClaw: a governed blueprint for your most sensitive code
+
+Tuning the harness, not the model: a Nemotron 3 Ultra playbook
+
+Related content
+
+No items found.
