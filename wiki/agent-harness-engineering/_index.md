@@ -8,3 +8,4 @@ Agent harness engineering studies the wrapper around models: prompts, tools, ski
 - [[anatomy-of-agent-skills|Anatomy of Agent Skills]] — Skills as reusable agent capabilities using metadata, progressive disclosure, and supporting files.
 - [[self-improving-agent-system-fable-5|Self-Improving Agent Systems with Fable 5]] — Compound agent systems built from loops, workflows, routines, state files, skills, evals, and verifiers.
 - [[self-learning-agent-layers|Self-Learning Agent Layers]] — Model, harness, and context learning layers, with user interaction as the strongest product signal.
+- [[harness-orchestration-and-membranes|Harness Orchestration and Membranes]] — Harnesses as autonomous work boundaries with workspace, verifier, blast-radius, and persistence contracts.

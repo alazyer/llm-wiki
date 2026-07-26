@@ -14,6 +14,7 @@ Loop engineering is the practice of designing systems that find work for agents,
 - [[getting-started-with-loops|Getting Started with Loops]] — Turn-based, goal-based, time-based, and proactive loop types with quality and token controls.
 - [[prompter-to-system-builder|From Prompter to System Builder]] — Ten shifts from one-off prompting to maintained loop infrastructure.
 - [[karpathy-loop-and-bilevel-autoresearch|Karpathy Loop and Bilevel Autoresearch]] — Measurable autonomous experiment loops and meta-loops that improve the search process itself.
+- [[agent-improvement-loops-and-rubrics|Agent Improvement Loops and Rubrics]] — Trace mining, human judgment, rubrics, prompt optimization, and gated self-improvement loops.
 
 ## Cross-Topic Loop Articles
 - [[ai-product-management/loop-engineering-for-product-managers]] — Product-management loops for artifact quality, signal synthesis, and decision support.

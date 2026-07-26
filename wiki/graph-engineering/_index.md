@@ -6,6 +6,7 @@ Graph engineering covers agent work as node-and-edge systems: dependency graphs,
 - [[graph-engineering-basics|Graph Engineering Basics]] — Nodes, edges, fake-edge tests, diamond workflows, verifier nodes, anchors, and when graphs are the wrong tool.
 - [[graph-engineering-roadmap|Graph Engineering Roadmap]] — A 14-step progression from linear agents to contracted nodes, runtime routing, isolation, cycles, model tiering, and self-routing workflows.
 - [[claude-dynamic-workflows-at-scale|Claude Dynamic Workflows at Scale]] — Practical Claude Code graph workflow setup, scaling limits, failure modes, cost supervision, and starter graph patterns.
+- [[langgraph-runtime-and-graph-engineering|LangGraph Runtime and Graph Engineering]] — LangGraph runtime patterns, durable graph services, fan-out, dynamic pipelines, and simulation-style multi-agent graphs.
 
 ## Related Topics
 - [[loop-engineering|Loop Engineering]] — The loop primitives that graph engineering composes into wider systems.

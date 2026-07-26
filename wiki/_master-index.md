@@ -15,4 +15,9 @@
 - [[ai-business-building|AI Business Building]] — Solo and small-team AI service business systems for acquisition, delivery, pricing, SOPs, and reusable skills.
 - [[web-platform-engineering|Web Platform Engineering]] — Browser internals, rendering pipelines, JavaScript engines, process isolation, networking, and web performance diagnostics.
 - [[graph-engineering|Graph Engineering]] — Agent workflows modeled as dependency graphs with node contracts, verifier edges, fan-out/fan-in topology, isolation, and cost-aware dynamic workflows.
+- [[agent-evaluation-observability|Agent Evaluation and Observability]] — Evals, benchmarks, traces, LLM judges, regression tests, and production feedback loops for agents.
+- [[agent-platform-operations|Agent Platform Operations]] — Runtime substrate for agents: sandboxes, durable execution, governed deployments, product surfaces, observability data layers, and cost controls.
+- [[ai-backend-architecture|AI Backend Architecture]] — AI embedded inside software runtimes, including accountability, identity, authorization, modular capabilities, and control-plane boundaries.
+- [[enterprise-ai-case-studies|Enterprise AI Case Studies]] — Production examples of agents, eval loops, observability programs, GTM automation, customer support, and enterprise AI platforms.
+- [[ai-technology-briefs|AI Technology Briefs]] — Adjacent AI and engineering developments that are useful context but not yet deep topic areas.
 - [[pending-ingest|Pending Ingest]] — Empty, minimal, or superseded raw files tracked without inventing missing source content.

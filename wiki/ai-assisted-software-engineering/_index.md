@@ -6,3 +6,4 @@ AI-assisted software engineering tracks how AI changes coding, review, learning,
 - [[agentic-code-review-verification-bottleneck|Agentic Code Review: The Verification Bottleneck]] — Review strategies for AI-generated code, evidence gates, and risk-tiered scrutiny.
 - [[dont-outsource-the-learning|Don’t Outsource the Learning]] — Avoiding cognitive debt while using AI to code and study.
 - [[own-the-outer-loop|Own the Outer Loop]] — Human accountability for quality, verdicts, answerability, audit evidence, and production consequences.
+- [[coding-agent-fleets-and-cost-control|Coding Agent Fleets and Cost Control]] — Asynchronous coding agents, Claude Code as a function, budget-capped fleets, trace debugging, and review gates.
