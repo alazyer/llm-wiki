@@ -11,6 +11,6 @@ This Pragmatic Engineer piece examines Anthropic's internal transformation of so
 - Early adopter experiences suggest the biggest friction point isn't technical capability but establishing shared mental models between human engineers and autonomous development agents about when to act versus when to seek approval.
 
 ## Related
-- [[ai-assisted-software-engineering/loop-engineering-14-step-roadmap]]
+- [[loop-engineering/loop-engineering-14-step-roadmap]]
 - [[graph-engineering/graph-engineering-basics]]
 - [Source: Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/inside-anthropic)

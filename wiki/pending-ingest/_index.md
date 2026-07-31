@@ -6,4 +6,4 @@ Pending ingest tracks raw files that were present but empty, minimal, or superse
 - [[ai-second-brain-claude-obsidian-empty|Pending Ingest: AI Second Brain with Claude and Obsidian]] — Empty source file; likely future Claude + Obsidian PKM topic.
 - [[loop-engineering-for-pm-empty-2026-06-22|Pending Ingest: Loop Engineering for Product Managers Empty Source]] — Empty June 22 source superseded by the June 27 PM loop article.
 - [[loop-engineering-0-to-1-cn-placeholder|Pending Ingest: Loop Engineering 0 to 1 Chinese Placeholder]] — Minimal Chinese placeholder with insufficient source content.
-- [[hugging-face-articles-unreachable-2026-07-26|Pending Ingest: Hugging Face Articles Unreachable 2026-07-26]] — Nine Hugging Face clippings still pending because page fetches timed out while the rest of the article batch was compiled.
+- [[hugging-face-articles-unreachable-2026-07-26|Pending Ingest: Unfetched Article Placeholders]] — Hugging Face article placeholders remain pending because Hugging Face is blocked/unreliable from the current Mainland China network path.

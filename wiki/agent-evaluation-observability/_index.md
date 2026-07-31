@@ -6,6 +6,7 @@ Agent evaluation and observability covers eval design, benchmark construction, p
 - [[agent-evaluation-foundations|Agent Evaluation Foundations]] — Readiness, benchmark, regression, and dataset practices for measuring agent behavior.
 - [[langsmith-observability-feedback-loops|LangSmith Observability and Feedback Loops]] — Traces, OpenTelemetry, reusable evaluators, pairwise tests, and production feedback systems.
 - [[llm-judge-verifier-patterns|LLM Judge and Verifier Patterns]] — LLM-as-judge alignment, trace judges, legal verifiers, rubrics, and cost-aware verifier design.
+- [[similarweb-agent-report-evaluation|Similarweb Agent Report Evaluation]] — Rubrics, datasets, judge calibration, and LangSmith traces for evaluating long-form agent research reports.
 
 ## Related Topics
 - [[ai-agents]] — General agent concepts that eval systems measure.

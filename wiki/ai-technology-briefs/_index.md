@@ -4,6 +4,7 @@ AI technology briefs capture adjacent AI and engineering developments that are u
 
 ## Articles
 - [[ai-medicine-energy-reliability-briefs-2026-07|AI, Medicine, Energy, and Reliability Briefs: 2026-07]] — MIT Technology Review and Pragmatic Engineer clippings on drug discovery, organ preservation, grid transmission, Chinese AI, and reliability.
+- [[ai-compute-energy-and-market-briefs-2026-07-30|AI Compute, Energy, and Market Briefs: 2026-07-30]] — Adjacent context on drug-discovery data loops, nuclear/geothermal energy, superintelligence discourse, AI hype, chip talent, and market trust.
 
 ## Related Topics
 - [[ai-native-organizations]] — Broader AI adoption context.
