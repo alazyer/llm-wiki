@@ -1,0 +1,14 @@
+---
+title: "Kids outlearn AI—and we still don’t know why"
+source_url: "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
+ingested: 2026-08-25
+blog: "MIT Technology Review AI"
+published: "2026-08-24"
+---
+## Source Metadata
+- **Blog:** MIT Technology Review AI
+- **Published:** 2026-08-24
+- **URL:** https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/
+
+## Article Content
+_(Content not yet fetched.)_
