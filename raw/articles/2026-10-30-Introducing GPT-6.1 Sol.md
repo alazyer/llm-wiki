@@ -1,0 +1,14 @@
+---
+title: "Introducing GPT-6.1 Sol"
+source_url: "https://openai.com/index/introducing-gpt-6-1-sol"
+ingested: 2026-10-30
+blog: "OpenAI"
+published: "2026-09-29"
+---
+## Source Metadata
+- **Blog:** OpenAI
+- **Published:** 2026-09-29
+- **URL:** https://openai.com/index/introducing-gpt-6-1-sol
+
+## Article Content
+_(Content not yet fetched._)

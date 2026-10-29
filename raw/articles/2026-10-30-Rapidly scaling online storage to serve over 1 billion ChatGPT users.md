@@ -1,0 +1,14 @@
+---
+title: "Rapidly scaling online storage to serve over 1 billion ChatGPT users"
+source_url: "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+ingested: 2026-10-30
+blog: "OpenAI"
+published: "2026-09-11"
+---
+## Source Metadata
+- **Blog:** OpenAI
+- **Published:** 2026-09-11
+- **URL:** https://openai.com/index/scaling-storage-one-billion-users-part-one
+
+## Article Content
+_(Content not yet fetched._)
