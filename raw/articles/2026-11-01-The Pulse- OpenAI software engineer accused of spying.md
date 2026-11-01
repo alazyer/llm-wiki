@@ -1,0 +1,14 @@
+---
+title: "The Pulse: OpenAI software engineer accused of spying"
+source_url: "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer"
+ingested: 2026-11-01
+blog: "Pragmatic Engineer"
+published: "2026-10-15"
+---
+## Source Metadata
+- **Blog:** Pragmatic Engineer
+- **Published:** 2026-10-15
+- **URL:** https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer
+
+## Article Content
+_(Content not yet fetched._)
